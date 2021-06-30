@@ -1,0 +1,1 @@
+find /mnt/d/mca/sem2/oslab/Scripts -type f -print0 | xargs -0 grep -li "hello" | sort

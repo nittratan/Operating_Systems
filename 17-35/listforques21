@@ -1,0 +1,15 @@
+Bankers		 a\ (1).out	  q11.sh     ques17.c	 ques26.c
+Bankers\ (1).c	 a.out		  q22a	     ques18	 ques3.sh
+Bankers.c	 change.c	  q22a.c     ques18.c	 ques4.sh
+Dining.c	 data		  q22b	     ques19	 ques5.sh
+FCFS		 five		  q22b.c     ques19.c	 ques6.sh
+FCFS\ (1).c	 five.c		  q23.c      ques2.sh	 ques7.sh
+FCFS.c		 hello		  q25.c      ques20	 ques8.sh
+IPC		 hello\ (1).c	  q30_a.c    ques20.c	 ques9.sh
+IPC\ (1).c	 hello.c	  ques10.sh  ques20.exe  ques9_.sh
+IPC.c		 list		  ques12.sh  ques21	 sh\ files.txt
+Priority	 listforques20	  ques13.sh  ques21.c	 test.text
+Priority\ (1).c  listforques21	  ques14.sh  ques22.c
+Priority.c	 newpro		  ques15.sh  ques23.c
+Roundrobin.c	 producer\ (1).c  ques16.sh  ques24.c
+SJF.c		 producer.c	  ques17     ques25.c
